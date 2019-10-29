@@ -25,7 +25,8 @@ class ViewController: UIViewController {
         
         if flashlight == true {
             
-            view.backgroundColor = .white
+            view.backgroundColor = .orange
+            
             
         } else {
             
